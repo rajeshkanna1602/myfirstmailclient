@@ -1,2 +1,0 @@
-# myfirstmailclient
-Created with CodeSandbox
